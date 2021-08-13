@@ -9,7 +9,7 @@
 </head>
 <body> 
     <?php
-    echo "nodificado";
+    echo "modificado";
     ?>
 </body>
 </html>
