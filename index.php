@@ -9,7 +9,7 @@
 </head>
 <body> 
     <?php
-    echo "modificado";
+    echo "modificado en git";
     ?>
 </body>
 </html>
